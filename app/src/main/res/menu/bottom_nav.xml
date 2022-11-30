@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Stocks"
+        android:id="@+id/stock"
+        android:icon="@drawable/ic_baseline_auto_graph_24"/>
+    <item android:title="International"
+        android:id="@+id/world"
+        android:icon="@drawable/ic_baseline_panorama_photosphere_select_24"/>
+    <item android:title="Crypto"
+        android:id="@+id/crypto"
+        android:icon="@drawable/ic_baseline_attach_money_24"/>
+    <item android:title="Trending"
+        android:id="@+id/trend"
+        android:icon="@drawable/ic_baseline_local_fire_department_24"/>
+</menu>
